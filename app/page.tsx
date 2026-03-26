@@ -33,7 +33,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 rounded-lg rotate-45" style={{ backgroundColor: COLORS.orange }}></div>
-            <h1 className="text-2xl font-black text-white tracking-tighter">EXORBIS SHOP</h1>
+            <h1 className="text-2xl font-black text-white tracking-tighter">MiyoKart.in</h1>
           </div>
           
           <div className="flex-1 mx-12 hidden md:block">
