@@ -8,11 +8,11 @@ import React from 'react';
 // Sunset Orange: #FF8601 (CTA/Badges)
 
 const COLORS = {
-  deepBlue: "#27187D",
-  royalBlue: "#758AFD",
-  periwinkle: "#AEB8FF",
-  iceWhite: "#F1F2F6",
-  orange: "#FF8601",
+  deepBlue: "#FFFBF4",
+  royalBlue: "#D6CFC2",
+  periwinkle: "#000000",
+  iceWhite: "#5A564D",
+  orange: "#8B1E3F",
 };
 
 // Dummy Data for 16 Products (Bada grid banane ke liye)
